@@ -1,7 +1,7 @@
 {
   "$GMSprite":"",
   "%Name":"spr_player_walk",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":734,
   "bbox_left":0,
   "bbox_right":1042,
@@ -24,7 +24,7 @@
   ],
   "name":"spr_player_walk",
   "nineSlice":null,
-  "origin":0,
+  "origin":4,
   "parent":{
     "name":"Sprites",
     "path":"folders/Sprites.yy",
@@ -81,8 +81,8 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
-    "yorigin":0,
+    "xorigin":521,
+    "yorigin":367,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
